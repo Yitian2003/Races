@@ -1,0 +1,9 @@
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.exe.config
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.exe
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\bin\Debug\ADayAtRaces.pdb
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.csprojResolveAssemblyReference.cache
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.Form1.resources
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.Properties.Resources.resources
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.csproj.GenerateResource.Cache
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.exe
+D:\MyVC\MyProjects\HeafFirst\ADayAtRaces\ADayAtRaces\obj\Debug\ADayAtRaces.pdb
